@@ -3,7 +3,7 @@
 <!--END_SECTION:TITLE-->
 
 <!--START_SECTION:WORK-->
-***<p align = left>🔭 I'm currently working on Fiverr as a freelancer</p>***
+***<p align = left>🔭 I'm currently working on Fiverr as a freelancer  <a href="https://www.fiverr.com/pininduhewage/do-3d-product-modelling">Hire me</a></p>***
 ***<p align = left></p>***
 <!--END_SECTION:WORK-->
 
